@@ -1,0 +1,30 @@
+.introduction
+{
+	color: blue;
+}
+
+
+#copyright
+{
+	float: right;
+}
+
+
+#foot 
+{
+	background-color:#686868;
+	height:100%;
+	position: fixed;
+	left:0
+	bottom:0;
+	right: 0;
+	width: 100%;
+	padding: 10px;
+
+}
+
+
+h1
+{
+	text-align: center;
+}
