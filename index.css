@@ -1,6 +1,17 @@
+html,body
+{
+	height: 100%;
+}
+
 .introduction
 {
 	color: blue;
+}
+
+
+h1
+{
+	text-align: center;
 }
 
 
@@ -20,11 +31,14 @@
 	right: 0;
 	width: 100%;
 	padding: 10px;
-
 }
 
-
-h1
+.container
 {
-	text-align: center;
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
 }
+.simple,.coton
+{text-align: center;
+padding: 0 50px 0 50px;}
